@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-<h3>Already Learned -> </h3>
+<h3>Already Learned</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,github,vscode,windows)](https://skillicons.dev)
 
