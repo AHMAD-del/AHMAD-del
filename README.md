@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,py,vscode)](https://skillicons.dev)
 
 
-<h3>Connect with me</h3>
+<h3>👋Connect with me</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
