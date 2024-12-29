@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm Ahmad</h1>
+<h1><p align="center">
+  Hi 👋, I'm Ahmad Hassan
+</p></h1>
 <h2>I am Python Programmer and Collage student in the domain of IT.</h2>
 
 <h3>🌱 I’m currently learning</h3>
